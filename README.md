@@ -27,8 +27,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="nginx" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/354107/nestjs.svg" title="nestjs" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="nextjs" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/353834/graphql.svg" title="nestjs" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="nextjs" width="40" height="40"/> 
 </p>
 
 

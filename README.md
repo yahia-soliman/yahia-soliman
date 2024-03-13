@@ -16,7 +16,7 @@
 
 <p align="center">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="angular" width="40" height="40"/> 
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="bootstrap" width="40" height="32" vspace=4/> 
+<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="bootstrap" width="40" height="32" vspace="4"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="sass" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/> 

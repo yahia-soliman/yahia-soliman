@@ -45,7 +45,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40"/> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahia-soliman&" alt="yahia-soliman" /></p>
+<br>
+<br>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahia-soliman&row=1&column=5&margin-w=8" alt="yahia-soliman" /></a> </p>
 

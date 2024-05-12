@@ -16,25 +16,26 @@
 
 <p align="center">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="angular" width="40" height="40"/> 
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="bootstrap" width="40" height="32" vspace="4"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width="40" height="35"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" width=40 height=40 />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="sass" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/> 
 </p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="nginx" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/354107/nestjs.svg" title="nestjs" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="nextjs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="nextjs" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/353834/graphql.svg" title="nestjs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="nginx" width="40" height="40"/> 
 </p>
 
 
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" width="40" height="40"/> 
 </p>

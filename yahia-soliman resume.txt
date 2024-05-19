@@ -1,0 +1,119 @@
+Yahia Soliman Elnaggar
+Back-end Software Engineer
+
+
+Contact
+--------------------------------------------------------------------------------
+10th of Ramadan, Egypt
++201013770494
+yahiaelnaggar19@gmail.com
+https://yahia.tech
+https://github.com/yahia-soliman
+https://www.linkedin.com/in/yahiasoliman/
+
+
+Summary
+--------------------------------------------------------------------------------
+Software engineer with a passion for back-end development.
+Gained valuable experience through 2 internships by building 4 production-ready
+application servers (with 2 full-stack applications) using JavaScript & Python
+frameworks (Flask, Express, NestJS), databases (MongoDB, MySQL), and Linux tools.
+Eager to learn new technologies and contribute to challenging projects.
+
+
+Skills
+--------------------------------------------------------------------------------
+REST API development: Flask, Express, and NestJS.
+Object-oriented programming (OOP): Python and JavaScript.
+Object relational mapping (ORM): SQLAlchemy.
+Database design and development: MongoDB, MySQL, and SQLite.
+Testing: Pytest and Python's unittest module.
+Web server development: Gunicorn, Nginx, and HAProxy.
+Front-end development: HTML, CSS, TailwindCSS, JavaScript, and jQuery.
+Linux management: Bash, SSH, Tmux, Vim, and other Linux tools.
+Source control: Git and GitHub.
+
+
+Experience
+--------------------------------------------------------------------------------
+June 2023 – May 2024
+ALX Africa, Remote
+Trainee Software Engineer
+
+Projects:
+** [Question League] (https://github.com/yahia-soliman/question-league)
+- Designed and implemented the data models with SQLAlchemy and MySQL.
+- Developed a full-stack application server with Flask.
+- Developed the front-end with Jinja2, TailwindCSS, and JavaScript.
+- Implemented a real-time multiplayer game with web sockets.
+- Deployed it to a Linux machine in AWS EC2 with Gunicorn.
+- Tested the back-end with Pytest and Python's unittest module.
+- Created SSL certificates with Let's Encrypt and certbot.
+** [AirBnB Clone] (https://github.com/yahia-soliman/AirBnB_clone_v4)
+- Designed and implemented a relational database with SQLAlchemy and MySQL.
+- Tested it with Python's unittest module.
+- Created a CLI to manage the database with Python cmd.
+- Designed and developed a REST API with Flask and JSON.
+- Developed a dynamic web page with HTML, CSS, JavaScript, and jQuery.
+- Deployed it to a Linux machine in AWS EC2, with Nginx, HAProxy.
+** [Simple Shell] (https://github.com/yahia-soliman/simple_shell)
+- Developed a command-line interpreter with C's system calls.
+
+---
+
+November 2023 – March 2024
+Information Technology Institute (ITI), Mansoura, Egypt
+Intensive Training Program (ITP), MERN/MEAN Stack Development
+
+Projects:
+** [Local Crafts] (https://github.com/AhmedEhab-SG/local-crafts-backend)
+- Designed data models with Mongoose and MongoDB.
+- Developed a REST API with NestJS and TypeScript.
+- Developed user authentication system with JWT.
+- Documented and tested the API endpoints with Thunder Client.
+** [Express REST] (https://github.com/yahia-soliman/book-store)
+- Developed a REST API with Express.
+- Designed data models with Mongoose and MongoDB.
+** [Clothing Store] (https://github.com/yahia-soliman/material-react)
+- Developed a landing page with React, MaterialUI, and Framer Motion.
+** [Store Manager] (https://github.com/yahia-soliman/angular-101)
+- Developed a UI to manage products (CRUD) with Angular and Bootstrap.
+
+
+Courses
+--------------------------------------------------------------------------------
+January 2024
+Cognitive Class + IBM
+Docker Essentials
+
+November 2022 – January 2023
+Udacity + EgyptFWD
+Professional Data Analysis with Python
+
+
+Education
+--------------------------------------------------------------------------------
+September 2019 – June 2023
+Bachelor of Engineering
+Department of Civil Engineering
+Faculty of Engineering
+Zagazig University, Egypt
+Overall Grade: very good with honors
+
+
+Work Experience
+--------------------------------------------------------------------------------
+March 2024 – Present
+Upwork, Remote
+Freelance Web Developer
+
+
+September 2022 – September 2023
+Technical Research Center, Zagazig University, Egypt
+Civil Site Engineer
+
+
+Languages
+--------------------------------------------------------------------------------
+English (intermediate)
+Arabic (native)

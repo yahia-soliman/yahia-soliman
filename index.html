@@ -16,7 +16,7 @@
 <body
   class="min-h-screen flex flex-col font-montserrat text-lg px-4 dark:text-slate-50 dark:bg-zinc-900 md:container mx-auto">
   <section>
-    <h2 class="font-fredericka text-4xl mt-16">As-salamu alaykum ;</h2>
+    <h2 class="font-fredericka text-4xl mt-16">As-salamu alaykum;</h2>
     <p class="text-2xl font-light mt-4">
       My name is Yahia, and I'm a Free Palestine software engineer.
     </p>
@@ -137,7 +137,7 @@
     </p>
   </footer>
   <script>
-    document.getElementById("feedback").onclick = async function (e) {
+    document.getElementById("feedback").onsubmit = async function (e) {
       if (!this.elements.message?.value) return;
       e.preventDefault();
       await fetch("/", {method: "POST", body: new FormData(this)});

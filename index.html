@@ -89,7 +89,7 @@
       <p class="w-full text-xl font-extralight mt-4">
         I would like to hear your useful suggestions and any feedback. No contact information is required.
       </p>
-      <textarea name="message" required maxlength="4"
+      <textarea name="message" required maxlength="4000"
         class="min-h-28 w-full appearance-none outline-none focus:ring bg-zinc-100 border-zinc-200 dark:bg-zinc-800 dark:border-zinc-700/75 rounded-lg p-2 mt-4 border"></textarea>
       <input type="submit"
         class="cursor-pointer bg-zinc-800 text-slate-50 mt-2 py-1 px-6 ml-auto rounded-lg appearance-none active:brightness-90 hover:brightness-110"
@@ -137,11 +137,10 @@
     </p>
   </footer>
   <script>
-    document.getElementById("feedback").onclick = function (e) {
-      const message = this.elements.message?.value
-      if (!message) return;
-      e.preventDefault()
-      fetch("/", {method: "POST", data: JSON.stringify({message})});
+    document.getElementById("feedback").onclick = async function (e) {
+      if (!this.elements.message?.value) return;
+      e.preventDefault();
+      await fetch(this.action, {method: "POST", body: new FormData(this)});
       this.reset();
     }
   </script>

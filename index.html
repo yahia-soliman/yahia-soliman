@@ -140,7 +140,7 @@
     document.getElementById("feedback").onclick = async function (e) {
       if (!this.elements.message?.value) return;
       e.preventDefault();
-      await fetch(this.action, {method: "POST", body: new FormData(this)});
+      await fetch("/", {method: "POST", body: new FormData(this)});
       this.reset();
     }
   </script>

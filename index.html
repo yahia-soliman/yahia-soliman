@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Libre+Bodoni:wght@400..700&family=Montserrat:wght@100..900&display=swap">
-  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="./style.css">
 </head>
 
 <body
@@ -83,18 +83,8 @@
     <p class="text-2xl font-light mt-4">
       I started investing my full-time in learning programming a year ago. I
       learned and changed a lot. There is a lot more to learn, and I'm taking
-      this opportunity that you came here to learn from you.
+      this opportunity that you came here to learn from you, let's connect.
     </p>
-    <form id="feedback" class="max-w-lg flex flex-wrap">
-      <p class="w-full text-xl font-extralight mt-4">
-        I would like to hear your useful suggestions and any feedback. No contact information is required.
-      </p>
-      <textarea name="message" required maxlength="4000"
-        class="min-h-28 w-full appearance-none outline-none focus:ring bg-zinc-100 border-zinc-200 dark:bg-zinc-800 dark:border-zinc-700/75 rounded-lg p-2 mt-4 border"></textarea>
-      <input type="submit"
-        class="cursor-pointer bg-zinc-800 text-slate-50 mt-2 py-1 px-6 ml-auto rounded-lg appearance-none active:brightness-90 hover:brightness-110"
-        value="Send">
-    </form>
   </section>
   <footer class="mt-auto">
     <div class="flex justify-end items-center border-b space-x-3 py-3 mb-4 border-b-zinc-600 [&>a>svg]:size-7">
@@ -152,14 +142,6 @@
       Copyright &copy; 2024. All rights reserved.
     </p>
   </footer>
-  <script>
-    document.getElementById("feedback").onsubmit = async function (e) {
-      if (!this.elements.message?.value) return;
-      e.preventDefault();
-      await fetch("/", {method: "POST", body: new FormData(this)});
-      this.reset();
-    }
-  </script>
 </body>
 
 </html>
